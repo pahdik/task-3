@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "zadanie3": {
+      "commandName": "Project",
+      "commandLineArgs": "rock paper scissors"
+    }
+  }
+}
